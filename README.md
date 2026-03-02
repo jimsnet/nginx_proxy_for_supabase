@@ -4,7 +4,7 @@
 
 This service runs Nginx in DigitalOcean (Singapore) and exposes a reverse proxy with environment-driven CORS configuration.
 
-Container Images: 
+## Container Images: 
     docker pull ghcr.io/jimsnet/nginx-supabase-proxy:latest
         or
     docker pull jimsnet/nginx-supabase-proxy:latest
